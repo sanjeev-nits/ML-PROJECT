@@ -5,5 +5,9 @@ matplotlib
 python-dotenv
 mysql-connector-python
 pymysql
+seaborn
+catboost
+xgboost
+
 
 # -e .

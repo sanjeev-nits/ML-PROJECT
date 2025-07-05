@@ -21,7 +21,11 @@ list_of_files = [
     f"src/{project_name}/utils.py",
     "app.py",
     "Dockerfile",
-    "main.py"
+    "main.py",
+    "notebook/1.EDA STUDENTD DATA.ipynb",
+    "notebook/2.MODEL TRAINIG.ipynb",
+    "notebook/data"
+    
 ]
 
 
